@@ -51,7 +51,6 @@ This Unity project demonstrates how to integrate haptic feedback into virtual re
 ## Project Structure
 ### Core Components
 - **Scripts**:
-    - `FeedbackController.cs`: Handles haptic feedback and input mapping.
     - `SimpleDrillController.cs`: Example script for multisensory interaction.
     - `GameManager.cs`: Mini-game management script.
 
