@@ -2,7 +2,7 @@
 
 Presented by Lui Albæk Thomsen  
 
-Exercise form can be found here: https://forms.gle/YUNvMYQyAfmfLnwD9
+Exercise form can be found here: https://forms.gle/e8q8aNNJyHVFzi3C8
 
 ## Overview
 This Unity project demonstrates how to integrate haptic feedback into virtual reality (VR) environments using the Meta XR Haptics SDK. It serves as a practical guide for designing and implementing multisensory experiences with vibrotactile, auditory, and visual feedback.
