@@ -65,14 +65,6 @@ This Unity project demonstrates how to integrate haptic feedback into virtual re
     - DOTween: Supports smooth animation of objects.
 
 ### Key Scripts
-#### `FeedbackController.cs`
-A script for triggering haptic feedback based on user interaction.
-- **Haptic Feedback**:
-    - Triggers `.haptic` files using `HapticClipPlayer`.
-    - Adjustable parameters: amplitude, frequency, duration.
-- **Integration**:
-    - Maps VR controller inputs to feedback events.
-
 #### `SimpleDrillController.cs`
 Example script for implementing multisensory feedback in a virtual power drill.
 - **Features**:
@@ -83,6 +75,7 @@ Example script for implementing multisensory feedback in a virtual power drill.
 #### Mini-Game
 A sample mini-game where users drill as many holes as possible in 60 seconds.
 - **GameManager.cs**: Manages score, time, and game flow.
+- **DrillController.cs**: Slightly modified DrillController for the mini-game.
 
 ---
 
