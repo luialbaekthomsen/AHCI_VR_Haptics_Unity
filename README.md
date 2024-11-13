@@ -1,4 +1,5 @@
 # Advanced HCI: VR and Haptics
+Presented by Lui Albæk Thomsen
 
 ## Overview
 This Unity project demonstrates how to integrate haptic feedback into virtual reality (VR) environments using the Meta XR Haptics SDK. It serves as a practical guide for designing and implementing multisensory experiences with vibrotactile, auditory, and visual feedback.
