@@ -1,5 +1,8 @@
-# Advanced HCI: VR and Haptics
-Presented by Lui Albæk Thomsen
+# Advanced HCI: VR and Haptics 
+
+Presented by Lui Albæk Thomsen  
+
+Exercise form can be found here: https://forms.gle/YUNvMYQyAfmfLnwD9
 
 ## Overview
 This Unity project demonstrates how to integrate haptic feedback into virtual reality (VR) environments using the Meta XR Haptics SDK. It serves as a practical guide for designing and implementing multisensory experiences with vibrotactile, auditory, and visual feedback.
@@ -124,9 +127,9 @@ A sample mini-game where users drill as many holes as possible in 60 seconds.
 ---
 
 ## References
-- [Meta XR SDK Documentation](https://developer.meta.com/docs/)
+- [Meta XR SDK Documentation](https://developers.meta.com/horizon/develop/unity)
 - [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest)
-- [Meta Haptics Studio Guide](https://developer.meta.com/tools/haptics-studio)
+- [Meta Haptics Studio Guide](https://developers.meta.com/horizon/resources/haptics-studio/)
 
 ---
 
